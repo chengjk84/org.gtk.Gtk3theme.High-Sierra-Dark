@@ -19,7 +19,7 @@
          "sources":[
             {
                "type":"archive",
-               "url":"http://0.0.0.0:8000/High-Sierra-Dark.zip",
+               "url":"https://github.com/chengjk84/high-sierra-gtk-theme/raw/master/compressed/High-Sierra-Dark.zip",
                "sha256":"2acb37987657175f47f91ddb978231d55f2905546019ad825f1ae4ff8f0e257e"
             }
          ]
